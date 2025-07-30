@@ -7,7 +7,7 @@ This project mimics the look and basic functionality of the Spotify music player
 
 ## 📸 Preview
 
-
+https://nethajikumar.github.io/spotify-clone/
 
 ---
 
